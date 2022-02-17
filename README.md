@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🎓 Ph.D. in Computer Science
+
 👨‍🔬 Research Fellow @ University of Catania, Italy
 
 🔭 My main research focus is on the application of Geometric Deep Learning techniques to graphs and complex systems 
