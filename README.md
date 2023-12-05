@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 🎓 Ph.D. in Computer Science
 
-👨‍🔬 Research Fellow @ University of Catania, Italy
+👨‍🔬 Assistant Professor @ University of Catania, Italy
 
 🔭 My main research focus is on the application of Geometric Deep Learning techniques to graphs and complex systems 
 
 
 
 
+<!--
 ![eMarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=eMarco&show_icons=true&theme=dark)
+-->
